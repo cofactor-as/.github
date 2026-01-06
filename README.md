@@ -1,3 +1,5 @@
 # Cofactor
 
-![Cofactor](design/cofactor_noBgColor.png)
+![Cofactor](https://github.com/cofactor-as/design/blob/main/cofactor_noBgColor.png)
+
+
