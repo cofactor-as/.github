@@ -1,3 +1,3 @@
 # Cofactor
 
-![Cofactor](cofactor_noBgColor.png)
+![Cofactor](cofactor/cofactor_noBgColor.png)
