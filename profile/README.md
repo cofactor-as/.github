@@ -8,7 +8,7 @@ Digitale tjenester som vi har utviklet for å effektivisere og verdiøke våre r
 |---|---|---|
 | PV produksjon og forbruk | [pv.cofactor.no](https://pv.cofactor.no) | Basisversjon fritt tilgjengelig. Kontakt oss for tilgang |
 | Områdeanalyser (PV, batteri, vind, forbruk) | [gridload.cofactor.no](https://gridload.cofactor.no) | Kundeprosjekter | 
-| Forbruk - kommuner og nettseiere | [elhub.cofactor.no](https://elhub.cofactor.no) | Internt arbeidsverktøy |
+| Forbruk - kommuner, nettseiere, grunnkretser | [elhub.cofactor.no](https://elhub.cofactor.no) | Internt arbeidsverktøy |
 
 Våre digitale tjenester er integrert mot Elhub og Statkraft Varme for automatisert innhenting av forbruksdata. Vi har utviklet egne databaser og integrasjoner mot relevante API-er og systemer for å levere helhetlige analyser av energibruk i kombinasjon med solceller, vind og batteri.
 
